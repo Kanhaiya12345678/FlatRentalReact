@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "656da612cddd141659b3b73c"
+  },
+  "description": "Nice Room",
+  "userId": {
+    "$oid": "656aefa2d5745822dd0589d9"
+  },
+  "date": {
+    "$date": "2023-12-04T10:12:34.361Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6576dce85ef26cdf949e1a95"
+  },
+  "description": "Nice Website",
+  "userId": {
+    "$oid": "6576db43736fc048f5dfee48"
+  },
+  "date": {
+    "$date": "2023-12-11T09:56:56.907Z"
+  },
+  "__v": 0
+}]

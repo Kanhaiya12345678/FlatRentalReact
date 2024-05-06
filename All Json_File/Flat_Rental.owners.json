@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "656c2132aa7308d1c4184121"
+  },
+  "username": "ss pandey",
+  "address": "abc, xyz, 123",
+  "contactNo": "2195426623",
+  "email": "ss@gmail.com",
+  "password": "$2b$10$pRxnuFH6YcfvGiL27vaXyOr8cZ0Ab24KZxd2bSOzId6Cvgzr37q3S",
+  "billImage": "billImage_1701585202833.jpeg",
+  "question": "What is your nick name ?",
+  "answer": "ss",
+  "adharImage": "adharImage_1701585202834.png",
+  "gender": "Male",
+  "date": {
+    "$date": "2023-12-03T06:33:22.927Z"
+  },
+  "__v": 0,
+  "active": true
+},
+{
+  "_id": {
+    "$oid": "6576e0c15ef26cdf949e1b72"
+  },
+  "username": "mayank",
+  "address": "sss aaa 321",
+  "contactNo": "9812343234",
+  "email": "mayank@abc.com",
+  "password": "$2b$10$nwkNfc0tDLuYTAelAISCiuNj43U.6jmFbdMC25qJ2noFT.PNrxgVO",
+  "billImage": "billImage_1702289601654.png",
+  "question": "What is your nick name ?",
+  "answer": "mayank",
+  "adharImage": "adharImage_1702289601656.png",
+  "gender": "Male",
+  "active": true,
+  "date": {
+    "$date": "2023-12-11T10:13:21.767Z"
+  },
+  "__v": 0
+}]

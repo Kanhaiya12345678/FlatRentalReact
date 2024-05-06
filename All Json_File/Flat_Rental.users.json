@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "656aefa2d5745822dd0589d9"
+  },
+  "username": "Krishna",
+  "address": "Abc, Bhopal, Mp",
+  "contactNo": "1230981209",
+  "email": "kk@gmail.com",
+  "password": "$2b$10$PO6sCnqlXgruTVgmDNQjF.pduvnMnKVjGLs7LWnTno78cTpDcMTp.",
+  "aadharNo": "123456789000",
+  "question": "Which is your favorite pet name ?",
+  "answer": "dog",
+  "adharImage": "adharImage_1701506978280.png",
+  "gender": "Male",
+  "date": {
+    "$date": "2023-12-02T08:49:38.360Z"
+  },
+  "__v": 0,
+  "active": true
+},
+{
+  "_id": {
+    "$oid": "6576db43736fc048f5dfee48"
+  },
+  "username": "sachin",
+  "address": "lmn pqr ",
+  "contactNo": "9843238976",
+  "email": "sachin@gmail.com",
+  "password": "$2b$10$c846G3yZVnLAwbjDDiZZU.xC7n3bKi00zxvVr9o4LzFJqVj.cxMJK",
+  "aadharNo": "999988887777",
+  "question": "What is your nick name ?",
+  "answer": "sanchu",
+  "adharImage": "adharImage_1702288195271.png",
+  "gender": "Male",
+  "active": true,
+  "date": {
+    "$date": "2023-12-11T09:49:55.441Z"
+  },
+  "__v": 0
+}]

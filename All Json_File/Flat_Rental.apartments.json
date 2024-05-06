@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "656edfcccb304e24e8a4704f"
+  },
+  "name": "Sunshine Towers",
+  "address": "Abc, Bhopal, Mp",
+  "city": "Bhopal",
+  "state": "Madhya Pradesh",
+  "furnish": "Full Furnished",
+  "atype": "1 BHK",
+  "ebill": "1200",
+  "extra": "Fitness Center",
+  "rent": "5000",
+  "pic1": "pic1_1701765068604.jpeg",
+  "pic2": "pic2_1701765068605.jpg",
+  "pic3": "pic3_1701765068608.jpg",
+  "pic4": "pic4_1701765068608.jpg",
+  "ownerId": {
+    "$oid": "656c2132aa7308d1c4184121"
+  },
+  "date": {
+    "$date": "2023-12-05T08:31:08.619Z"
+  },
+  "__v": 0,
+  "gender": "Male",
+  "active": true
+},
+{
+  "_id": {
+    "$oid": "6576f0851814be1283670d1c"
+  },
+  "name": "Tranquil Haven",
+  "address": "Ayodhya Nagar",
+  "city": "Uttar Pradesh",
+  "state": "Lakhnau",
+  "furnish": "Semi Furnished",
+  "atype": "2 BHK",
+  "ebill": "500",
+  "extra": "gym",
+  "gender": "Male",
+  "rent": "2500",
+  "pic1": "pic1_1702293637457.jpeg",
+  "pic2": "pic2_1702293637457.jpg",
+  "pic3": "pic3_1702293637459.jpeg",
+  "pic4": "pic4_1702293637459.jpg",
+  "active": true,
+  "ownerId": {
+    "$oid": "6576e0c15ef26cdf949e1b72"
+  },
+  "date": {
+    "$date": "2023-12-11T11:20:37.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6576f6a41814be1283670dbc"
+  },
+  "name": "Serenity Heights",
+  "address": "123 abc, xyz",
+  "city": "AGRA",
+  "state": "UTTAR PRADESH",
+  "furnish": "Semi Furnished",
+  "atype": "2 BHK",
+  "ebill": "2000",
+  "extra": "Tech Hub Access",
+  "gender": "Male",
+  "rent": "8000",
+  "pic1": "pic1_1702295204235.jpeg",
+  "pic2": "pic2_1702295204235.jpeg",
+  "pic3": "pic3_1702295204236.jpeg",
+  "pic4": "pic4_1702295204237.jpeg",
+  "active": true,
+  "ownerId": {
+    "$oid": "6576e0c15ef26cdf949e1b72"
+  },
+  "date": {
+    "$date": "2023-12-11T11:46:44.241Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6576fafa1814be1283670e13"
+  },
+  "name": "Serene Haven Residences",
+  "address": "KK 242 Street",
+  "city": "Kigali",
+  "state": "Rwanda",
+  "furnish": "Full Furnished",
+  "atype": "2 BHK",
+  "ebill": "2300",
+  "extra": "Elite Amenities",
+  "gender": "Female",
+  "rent": "6500",
+  "pic1": "pic1_1702296314094.jpeg",
+  "pic2": "pic2_1702296314094.jpg",
+  "pic3": "pic3_1702296314097.jpg",
+  "pic4": "pic4_1702296314097.jpg",
+  "active": true,
+  "ownerId": {
+    "$oid": "6576e0c15ef26cdf949e1b72"
+  },
+  "date": {
+    "$date": "2023-12-11T12:05:14.100Z"
+  },
+  "__v": 0
+}]
